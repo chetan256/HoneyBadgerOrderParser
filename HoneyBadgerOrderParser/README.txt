@@ -19,7 +19,7 @@ To Execute code
 Input and Output Files
 ==============
 customerdata.txt - Input file
-report_template.html - jinja Template file ofr generating Output
+report_template.html - jinja Template file for generating Output
 output.html - output(HTML Report) of CustomerDataParser.py
 
 CONTACT
